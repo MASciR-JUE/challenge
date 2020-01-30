@@ -1,0 +1,2 @@
+# challenge
+Le but du challenge est de créer un algorithme capable de retourner le nombre de fruits dans une image, en utilisant les méthodes de traitement d'images et machine learning.  Les gagnants du challenge auront l'opportunité d'effectuer un stage d’été suivi d'un stage PFE au sein de MAScIR ou ALTEN.  Les participants seront jugés en 3 étapes, la compilation de l'algorithme, la précision du modèle, et la vitesse d’exécution.
